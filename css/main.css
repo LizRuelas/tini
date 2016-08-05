@@ -1,0 +1,71 @@
+/* Inserte su codigo aqui */
+
+.fondo {
+	background-color: #FCCE09;
+	height: 600px;
+	padding-top: 70px;
+}
+.col-6.sumate a {
+	text-decoration: none;
+	background-color: #FCBA43;
+	color: white;
+	padding: 15px;
+}
+.col-6.menu a {
+	text-decoration: none;
+	color: white;
+	text-align: center;
+	padding-right: 30px;
+	float: right;
+}
+.titulo {
+	padding-top: 200px;
+	text-align: center;
+	color: white;
+}
+.seccion {
+	background-color: rgb(235,234,233);
+	height: 1350px;
+}
+.ejemplos1 {
+	height: 550px;
+	background-color: white;
+	padding: 40px;
+	margin-top: 30px;
+	margin-left: 20px;
+	margin-right: 20px;	
+}
+.ejemplos2{
+	height: 550px;
+	background-color: white;
+	margin-top: 30px;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding: 40px;
+}
+.seccion img {
+margin: 40px 80px;
+}
+.seccion h2 {
+	color: #868683;
+	padding-bottom: 10px;
+}
+.seccion p {
+	color: #CBC0BC;
+	margin-bottom: 50px;
+}
+.seccion a{
+	text-decoration: none;
+	color: white;
+	background-color: #FCBA43;
+	padding: 10px;
+	margin-left: 200px;
+}
+.pie {
+	background-color: #262624;
+	height: 80px;
+}
+.pie p {
+	color: white;
+	padding-top: 30px;
+}
